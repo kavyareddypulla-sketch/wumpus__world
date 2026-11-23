@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name:                       </h3>
-<h3>Register Number/Staff Id:                </h3>
+<h3>Name:     PULLA KAVYA                  </h3>
+<h3>Register Number/Staff Id:     212225240110           </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
@@ -146,3 +146,4 @@ while(player):
 <img width="323" height="747" alt="image" src="https://github.com/user-attachments/assets/f5948995-501e-423e-83b1-a634a13aef17" />
 
 ## RESULT
+Therefore, Wumpus World Problem using Python demonstrating Inferences from Propositional Logic solved successfully.
